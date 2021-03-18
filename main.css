@@ -1,0 +1,14 @@
+html { 
+    background: url(https://www.lefthudson.com/wp-content/uploads/2019/11/white-hd-background-fresh-wood-white-background-hd-pilar-reading-center-ideas-of-white-hd-background.jpg) no-repeat center center fixed; 
+    background-size: cover;
+  }
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    color: #858484;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 70vh;
+}
